@@ -44,11 +44,30 @@ YouTube Video Link: https://www.youtube.com/watch?v=3PHXvlpOkf4
 ![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/08_Shakes.png)
 
 
-## *ToBeCompletedSoon* Video Project
-## *ToBeCompletedSoon* Scroll Project
-## *ToBeCompletedSoon* Tabs Project
-## *ToBeCompletedSoon* countdown Timer Project
-## *ToBeCompletedSoon* Lorem Ipsum Project
+## Video Project
+
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/09_Video_TextOverlay_Pause_Play_Button.png)
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/09_Video_Preloader.png)
+
+## Scroll Project
+
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/10_Scroll_Project_Large_Screen.png)
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/10_Scroll_Project_Small_Screen.png)
+
+## Tabs Project
+
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/11_Tab_History.png)
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/11_Tab_Vision.png)
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/11_Tab_Goals.png)
+
+## Countdown Timer Project
+
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/12_CountDown_10_days_out_from_refresh.png)
+
+## Lorem Ipsum Project
+
+![Alt Text](https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/13_LoremIpsum.png)
+
 ## *ToBeCompletedSoon* Grocery Bud Project
 ## *ToBeCompletedSoon* Slider Project
 ## *ToBeCompletedSoon* ES6 Slider Project
