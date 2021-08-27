@@ -17,10 +17,6 @@ Skip to Project:
 - [Lorem Ipsum Project](#lorem-ipsum-project)
 - [Grocery Bud Project](#grocery-bud-project)
 - [Slider Project](#slider-project)
-- [ES6 Slider Project](#es6-slider-project)
-- [Stripe Submenus Project](#stripe-submenus-project)
-- [Pagination Project](#pagination-project)
-
 
 YouTube Video Link: https://www.youtube.com/watch?v=3PHXvlpOkf4
 
@@ -114,30 +110,16 @@ YouTube Video Link: https://www.youtube.com/watch?v=3PHXvlpOkf4
 
 <h2 id="grocery-bud-project"> *ToBeCompletedSoon* Grocery Bud Project</h2>
 
-
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/14_Grocery_Bud_AddItem.png" width="300" height="300" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/14_Grocery_Bud_ItemDeleted.png" width="300" height="300" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/14_Grocery_Bud_ItemEdited.png" width="300" height="300" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/14_Grocery_Bud_ItemsInLocalStorageAPI.png" width="300" height="300" />
 
 [Back To Top](#top)
 
 <h2 id="slider-project"> *ToBeCompletedSoon* Slider Project</h2>
 
-
-
-[Back To Top](#top)
-
-<h2 id="es6-slider-project"> *ToBeCompletedSoon* ES6 Slider Project</h2>
-
-
-
-[Back To Top](#top)
-
-<h2 id="stripe-submenus-project"> *ToBeCompletedSoon* Stripe Submenus Project</h2>
-
-
-
-[Back To Top](#top)
-
-<h2 id="pagination-project"> *ToBeCompletedSoon* Pagination Project</h2>
-
-
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/15_Slider_End_without_Next_Button.png" width="300" height="300" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/15_Slider_Start_without_Prev_Button.png" width="300" height="300" />
 
 [Back To Top](#top)
