@@ -108,7 +108,7 @@ YouTube Video Link: https://www.youtube.com/watch?v=3PHXvlpOkf4
 
 [Back To Top](#top)
 
-<h2 id="grocery-bud-project"> *ToBeCompletedSoon* Grocery Bud Project</h2>
+<h2 id="grocery-bud-project"> Grocery Bud Project</h2>
 
 <img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/14_Grocery_Bud_AddItem.png" width="300" height="300" />
 <img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/14_Grocery_Bud_ItemDeleted.png" width="300" height="300" />
@@ -117,7 +117,7 @@ YouTube Video Link: https://www.youtube.com/watch?v=3PHXvlpOkf4
 
 [Back To Top](#top)
 
-<h2 id="slider-project"> *ToBeCompletedSoon* Slider Project</h2>
+<h2 id="slider-project"> Slider Project</h2>
 
 <img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/15_Slider_End_without_Next_Button.png" width="300" height="300" />
 <img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/15_Slider_Start_without_Prev_Button.png" width="300" height="300" />
