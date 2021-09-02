@@ -21,29 +21,40 @@ Skip to Project:
 YouTube Video Link: https://www.youtube.com/watch?v=3PHXvlpOkf4
 
 <h2 id="colorflipper-project">ColorFlipper Project</h2>
-
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/01_ColorFlipper_Array.png" width="300" height="300" />
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/01_ColorFlipper_Random_Infinite.png" width="300" height="300" />
+<p float="left">
+ <img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/01_ColorFlipper_Array.png" width="300" height="200" />
+ <p>This intial project utilized JavaScript to flip between an array of background colors, using rbga, hex, and basic colors when the button Click Me! was selected by the user. The background color, in the form that it was saved within the array is then displayed when the background color changes.</p>
+ <img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/01_ColorFlipper_Random_Infinite.png" width="300"  height="200" />
+ <p>In this portion of the first project, we used Math.random() to generate a random hex value to display as the background color and listed on the page when the user clicked the  button. </p>
+</p>
 
 [Back To Top](#top)
+
 
 <h2 id="counter-project">Counter Project</h2>
+For this project, we designed a Counter, that would increase or decrease the displayed integer depending on which button was clicked. When the counter was reset to zero, the font color will be black, when the number was positive, the font color became green, and negative values are shown with red font color. 
+<p float="left">
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/02_Counter_negative_decrement.png" width="200" height="200" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/02_Counter_reset.png" width="200" height="200" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/02_Counter_positive_increment.png" width="200" height="200" />
+</p>
 
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/02_Counter_negative_decrement.png" width="300" height="300" />
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/02_Counter_positive_increment.png" width="300" height="300" />
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/02_Counter_reset.png" width="300" height="300" />
 [Back To Top](#top)
+
 
 <h2 id="reviews-project">Reviews Project</h2>
 
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/03_Reviews.png" width="300" height="300" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/03_Reviews.png" width="200" height="200" />
+
 [Back To Top](#top)
 
 <h2 id="navbar-project"> Navbar Project</h2>
 
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/04_Hamburger_Selected_Menu_Visible.png" width="300" height="300" />
-<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/04_NavbarElements_Visible_with_Large_Screen.png" width="300" height="300" />
-
+<p float="left">
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/04_Hamburger_Selected_Menu_Visible.png" width="400" height="125" />
+<img src="https://github.com/SamanthaEpling/JavaScript-Basic-Projects_Inspired_By_FreeCodeCamp/blob/main/screenshotImages/04_NavbarElements_Visible_with_Large_Screen.png" width="400" height="100" />
+</p>
+ 
 [Back To Top](#top)
 
 <h2 id="sidebar-project"> Sidebar Project</h2>
